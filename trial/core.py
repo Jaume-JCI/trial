@@ -4,4 +4,4 @@ __all__ = ['my_print']
 
 # Cell
 def my_print (x):
-    print (f'the value of x is {x}')
+    print (f'the value of x is {x} - type {type(x)}')
