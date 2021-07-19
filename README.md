@@ -23,3 +23,5 @@ my_print(x)
     2
 
 
+
+Information about core: [core](docs/markdown/00_core.md)
