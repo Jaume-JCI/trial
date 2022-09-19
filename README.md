@@ -17,9 +17,10 @@ x = 5
 my_print(x)
 ```
 
+    the value of x is 5
 
 
-
-    2
-
-
+```python
+import os
+os.remove ('CONTRIBUTING.md')
+```
