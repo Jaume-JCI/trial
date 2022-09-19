@@ -8,9 +8,9 @@ This file will become your README and also the index of your documentation.
 
 `pip install trial`
 
-## How to use
+## Usage
 
-Fill me in please! Don't forget code examples:
+Run the following:
 
 ```python
 x = 5
