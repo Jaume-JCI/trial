@@ -11,7 +11,7 @@ jobs:
         architecture: 'x64'
     - name: Build the image
       run: |
-        docker build -t dt . --build-arg TEST=1
+        docker build -t dt .
     - name: Run tests in image
       run: |
         docker run --name dc dt
